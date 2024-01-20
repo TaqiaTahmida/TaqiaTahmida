@@ -1,4 +1,14 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taqia Tahmida
+=====================================================================================================================================
+
+Software Engineering student
+----------------------------
+
+I'm only just in my first year of university but I hope to become an amazing programmer one day!
+
+*   🌍  I'm based in Johor Bahru
+*   ✉️  You can contact me at [taqiatahmida@gmail.com](mailto:taqiatahmida@gmail.com)
+*   🧠  I'm learning C++
 
 <!--
 **TaqiaTahmida/TaqiaTahmida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
